@@ -1,6 +1,6 @@
 # Pathpal: AI for Safe routes home, blight reporting.
 
-Client: City of San José, [focus area]
+Client: City of San José, Blight and Navigation
 Team: Ryan M. Man N. Rishaan S. Deserae L. Tyler P., Aug–Oct 2026
 My part: I designed the UI, data architecture and built the real-time routing engine.
 
